@@ -1,0 +1,62 @@
+#container {
+	max-width: 1920px;
+	max-height: 1080px;
+	background-repeat: powderblue;
+}
+
+#containerID {
+	max-width: 47%;
+	height: 1080px;
+	float: left;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 1%;
+	padding: 1%;
+	margin-bottom: 1%;
+	background-color: white;
+}
+
+#imgHold IMG {
+	width: 96%;
+	height: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#leftColumn {
+	max-width: 97%;
+	width: 98%;
+	max-height: 100%;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+	float: left;
+	background: lightgrey;
+}
+#rightColumn {
+	font-family: times new roman,font-size: 20px; line-height: 22px;
+	text-align: left; color: black;
+	max-width: 50%;
+	width: 46%;
+	max-height: 50%;
+	height: 1080px;
+	margin-left: 1%;
+	padding: 1%;
+	float: left;
+	border: 1%;
+	border-style: solid;
+	border-color: white;
+	background: lightgrey;
+}
+
+#text {
+	width: 47%;
+	height: auto;
+	float: right;
+	border-style: solid;
+	border-color: lightgrey;
+	border-width: 1%;
+	padding: 1%;
+	margin-bottom: 1%;
+	background-color: white;
+}
