@@ -1,0 +1,169 @@
+#container{
+	width: 1200px;
+	height: 1800px;
+	min-height: 800px;
+	min-width: 1280px;
+	background-color: white;
+	margin-top: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 23px;
+}
+#containerSmall{
+	width: 900px;
+	height: 900px;
+	min-height: 800px;
+	min-width: 800px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: powderblue;
+	padding-top: 85px;
+	border-style: solid;
+	border-color: black;
+}
+
+#text{
+	width: 860px;
+	height: 500px;
+	min-width: 860px;
+	min-height: 400px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	background-color: powderblue;
+	font-size: 36px;
+	border-style: solid;
+	border-color: black;
+}
+#imgHolder{
+	width: 800px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+}@media screen and (max-width: 960px) 
+{
+#wrap_______________START959{} 
+	
+
+#container{
+	width: 820px;
+	height: 820px;
+	min-width: 760px;
+	min-height: 1600px;
+	background-color: white;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+#containerSmall{
+	width: 600px;
+	height: 600px;
+	min-width: 640px;
+	min-height: 680px;
+	background-color: powderblue;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+#text{
+	width: 600px;
+	height: 600px;
+	min-width: 600px;
+	padding: 20px;
+	background-color: powderblue;
+	font-size: 32px;
+}
+#imgHolder{
+	width: 500px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	}	
+}
+	
+@media screen and (max-width: 767px) 
+{
+#wrap_______________START767{} 
+#container{
+	width: 720px;
+	height: 1400px;
+	min-width: 680px;
+	min-height: 1200px;
+	background-color: white;
+	margin-top: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 18px;
+}
+#containerSmall{
+	width: 480px;
+	height: 480px;
+	min-width: 460px;
+	min-height: 460px;
+	margin-top: 50px;
+	padding: 20px;
+	background-color: powderblue;
+	}
+
+#text{
+	width: 480px;
+	height: 480px;
+	min-width: 460px;
+	min-height: 460px;
+	margin-top: 50px;
+	padding: 20px;
+	background-color: powderblue;
+	font-size: 24px;
+}
+#imgHolder{
+	width: 380px;
+	height: 380px;
+	}	
+}	
+	
+	
+	
+@media screen and (max-width: 420px) 
+{
+#wrap_______________START420{} 	#container{
+	width: 400px;
+	height: 400px;
+	min-height: 850px;
+	min-width: 360px;
+	background-color: white;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#containerSmall{
+	width: 280px;
+	height: 240px;
+	min-height: 240px;
+	min-width: 240px;
+	margin-top: 10px;
+	border-radius: 10%;
+	background-color: powderblue;
+	padding-top: 35px;
+}
+
+#text{
+	width: 240px;
+	height: 350px;
+	min-width: 240px;
+	min-height: 260px;
+	margin-top: 10px;
+	padding: 20px;
+	background-color: powderblue;
+	font-size: 16px;
+}
+#imgHolder{
+	width: 180px;
+	height: 180px;
+	}	
+}
