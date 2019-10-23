@@ -2,8 +2,8 @@
 /* CSS Document */
 .container {
 	background-image: linear-gradient(white, lightgray);
-	width: 900px;
-	height: 500px;
+	max-width: 900px;
+	max-height: 500px;
 }
 
 #mainmenu {
@@ -15,14 +15,14 @@
 
 #elenaboggio {
 	font-family: 'Helvetica', 'sans-serif';
-	font-size: 200px;
+	font-size: 300px;
 	font-weight: lighter;
 	vertical-align: middle;
 }
 
 #animation {
-  width: 900px;
-  height: 500px;
+  max-width: 900px;
+  max-height: 500px;
   border-radius: 10px;
   background-color: white;
   position: relative;
