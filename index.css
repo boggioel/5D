@@ -35,13 +35,13 @@
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes example {
   0%   {background-color:lightgray; left:0px; top:0px;}
-  50%  {background-color:white; left:0px; top:510px;}
+  50%  {background-color:white; left:0px; top:500px;}
   100% {background-color:lightgray; left:0px; top:0px;}
 }
 
 /* Standard syntax */
 @keyframes example {
   0%   {background-color:lightgray; left:0px; top:0px;}
-  50%  {background-color:white; left:0px; top:510px;}
+  50%  {background-color:white; left:0px; top:500px;}
   100% {background-color:lightgray; left:0px; top:0px;}
 }
