@@ -2,8 +2,8 @@
 /* CSS Document */
 .container {
 	background-image: linear-gradient(white, lightgray);
-	max-width: 900px;
-	max-height: 500px;
+	width: 900px;
+	height: 500px;
 }
 
 #mainmenu {
@@ -21,8 +21,8 @@
 }
 
 #animation {
-  max-width: 900px;
-  max-height: 500px;
+  width: 900px;
+  height: 500px;
   border-radius: 10px;
   background-color: white;
   position: relative;
