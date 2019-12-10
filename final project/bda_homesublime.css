@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+	width: 1660px;
+	height: max-height;
+	background-color: #F5F5F5;
+}
+
+#title {
+	font-family: "Georgia", "serif";
+	font-size: 45px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+p:link, a:link {
+	color: black;
+	text-decoration: none;
+}
+
+p:hover, a:hover {
+	color: gray;
+	text-decoration: none;
+}
+
+p: visited, a: visited {
+	color: black;
+}
+
+p:active, a:active {
+	color: gray;
+}
+
+#menubar {
+	font-family: "Georgia", "serif";
+	font-size: 15px;
+	padding-top: 8px;
+	padding-left: 10px;
+
+}
+
+#head {
+	width: 1660px;
+	font-family: "Georgia", "serif";
+	font-size: 25px;
+	padding-top: 30px;
+	padding-left: 10px;
+
+}
+
+.flex-container {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.flex-container > div {
+  background-color: white;
+  width: 16%;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+
+#poem1 {
+	width:20%;
+	height: 300px;
+	background-color: white;
+	border-radius: 10px;
+	margin: 10px;
+	border: 10px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+
+#poem2 {
+	width:20%;
+	height: 300px;
+	background-color: white;
+	border-radius: 10px;
+	margin: 10px;
+	border: 10px;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
